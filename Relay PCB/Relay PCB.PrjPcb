@@ -87,10 +87,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELSGVQVE
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Relay PCB\Design Rule Check - Relay PCB.html
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=..\*.*
 IncludeSubFolders=1
